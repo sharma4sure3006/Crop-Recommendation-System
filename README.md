@@ -25,4 +25,3 @@ Temperature - Temperature in degree Celsius
 Humidity - Relative Humidity in %
 pH - pH value of the soil
 Rainfall - Rainfall in mm
-
