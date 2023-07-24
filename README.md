@@ -16,12 +16,22 @@ In conclusion, crop recommendation using machine learning has the potential to r
 
 The dataset for crop recommendation was created by combining and enriching existing datasets of rainfall, climate, and fertilizer data available for India.
 
-## Attributes information:
+### [Attributes information:]()
 
-N - Ratio of Nitrogen content in soil
-P - Ratio of Phosphorous content in soil
-K - Ratio of Potassium content in soil
-Temperature - Temperature in degree Celsius
-Humidity - Relative Humidity in %
-pH - pH value of the soil
-Rainfall - Rainfall in mm
+* **N** - Ratio of Nitrogen content in soil
+* **P** - Ratio of Phosphorous content in soil
+* **K** - Ratio of Potassium content in soil
+* **Temperature** -  Temperature in degree Celsius
+* **Humidity** - Relative Humidity in %
+* **ph** - pH value of the soil
+* **Rainfall** - Rainfall in mm
+
+# References
+* https://www.prolim.com/crop-recommendation-system-using-machine-learning-for-digital-farming/
+* https://www.irjet.net/archives/V4/i12/IRJET-V4I12179.pdf
+* https://ieeexplore.ieee.org/document/8768790
+* http://sersc.org/journals/index.php/IJAST/article/view/30399
+* https://www.researchgate.net/publication/345247916_Crop_Plantation_Recommendation_using_Feature_Extraction_and_Machine_Learning_Techniques
+* https://towardsdatascience.com/farmeasy-crop-recommendation-portal-for-farmers-48a8809b421c
+* https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
+* http://agri.ckcest.cn/ass/8185d605-6c4d-4d8a-b280-c867c2304d42.pdf
